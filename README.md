@@ -1,6 +1,15 @@
-\# Insider Threat Detection System
+
+
+# Insider Threat Detection System
 
 Société Générale Hackathon — Problem Statement 4 (Data Access Audit \& Insider Threat Detection)
+
+
+
+\## Dashboard Screenshots
+Dashboard screenshots are added inside screenshots folder, please do run the dashboard for interactive experience
+
+
 
 
 
